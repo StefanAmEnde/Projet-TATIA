@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+word2vec model/GoogleNews-vectors-negative300.bin
+generation model/pytorch_model.bin
